@@ -1,3 +1,4 @@
+![Can logo](https://uniswarm.fr/img/can-logo.png)
 # What is CAN bus?
 CAN bus (Controller Area Network) is an interconnected bus well known in automotive and industry world.
 
